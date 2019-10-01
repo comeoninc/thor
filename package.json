@@ -1,6 +1,6 @@
 {
   "name": "thor",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -54,5 +54,21 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.1.",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comeoninc/thor.git"
+  },
+  "keywords": [
+    "amich",
+    "comeoninc"
+  ],
+  "author": "comeoninc.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comeoninc/thor/issues"
+  },
+  "homepage": "https://github.com/comeoninc/thor#readme"
 }
